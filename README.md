@@ -17,17 +17,12 @@ Here are some ideas to get you started:
 <h1 align="center">Oi 👋, Eu sou o Michael</h1>
 <h3 align="center">Um estudante de Ciências de Dados</h3>
 
-- 🔭 Atualmente estou trabalhando como **Analista de Sistemas em uma multinacional**
-
-- 👯 Eu procuro aprender e colaborar com **projetos de ciência de dados e IA**
-
+- 🔭 Atualmente estou trabalhando como **Análista de Sistemas em uma multinacional**
+- 👯 Eu procuro aprender e colaborar com **Projetos de engenharia de dados, ciência de dados e IA**
 - 💬 Me pergunte sobre **tecnologia, ciência de dados, SQL e etc**
-
 - 📫 Fale comigo em **michael.h.moreira@gmail.com**
-
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/michael-henrique-782305a2/](https://www.linkedin.com/in/michael-henrique-782305a2/)
 
-- ⚡ Curiosidade sobre mim **Sou atirador esportivo, amo jogar vídeo game.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
