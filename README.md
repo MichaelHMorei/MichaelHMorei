@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋
 
 <!--
 **MichaelHMorei/MichaelHMorei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="left">Michael Henrique Moreira</h1>
 <h15 align="left"><i>Um Engenheiro de Dados em formação</i></h15>
-<h7></h7>
+
+<p></p>
 
 - 🔭 Atualmente estou trabalhando como **Análista de Sistemas em uma multinacional**
 - 👯 Eu procuro aprender e colaborar com **Projetos de engenharia de dados, ciência de dados e IA**
