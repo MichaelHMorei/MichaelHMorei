@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 <p></p>
 Possui graduação em Analise e Desenvolvimento de Sistemas, MBA em BIG Data e Inteligencia Competitiva.
 
+<h1>Olá</h1>
+<h2>Tudo bem com você?!</h2>
+<h3>Estamos aqui!</h3>
+
 - 🔭 Atualmente estou trabalhando como **Análista de Sistemas em uma multinacional**
 - 👯 Eu procuro aprender e colaborar com **Projetos de engenharia de dados, ciência de dados e IA**
 - 💬 Me pergunte sobre **tecnologia, ciência de dados, SQL e etc**
