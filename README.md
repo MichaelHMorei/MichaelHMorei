@@ -28,8 +28,10 @@ Possui graduação em Análise e Desenvolvimento de Sistemas, MBA em BIG Data e 
 
 <h3>📈 Projetos:</h3>
 <h1></h1>
- * Pipeline Covid
- * teste
+Alguns projetos desenvolvidos:
+* AAAA
+* BBBBB
+  *CCCC     
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
