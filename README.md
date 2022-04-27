@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Michael Henrique Moreira</h1>
-<align="left"><i>Um Engenheiro de Dados em formação</i><
+<align="left"><i>Um Engenheiro de Dados em formação</i>
 <p></p>
 Possui graduação em Analise e Desenvolvimento de Sistemas, MBA em BIG Data e Inteligencia Competitiva.
 
