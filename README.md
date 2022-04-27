@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Michael Henrique R. Moreira</h1>
-<h3 align="left">Um estudante de Ciências de Dados</h3>
+<h1 align="left">Michael Henrique Moreira</h1>
+<h3 align="left"><i>Um Engenheiro de Dados em formação.</i></h3>
 
 - 🔭 Atualmente estou trabalhando como **Análista de Sistemas em uma multinacional**
 - 👯 Eu procuro aprender e colaborar com **Projetos de engenharia de dados, ciência de dados e IA**
