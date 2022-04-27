@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <h1 align="left">Michael Henrique Moreira</h1>
 <align="left"><i>Um Engenheiro de Dados em formação</i>
 <p></p>
-Possui graduação em Analise e Desenvolvimento de Sistemas, MBA em BIG Data e Inteligencia Competitiva.
+
+Possui graduação em Análise e Desenvolvimento de Sistemas, MBA em BIG Data e Inteligência Competitiva.
 
 - 🔭 Atualmente estou trabalhando como **Análista de Sistemas em uma multinacional**
 - 👯 Eu procuro aprender e colaborar com **Projetos de engenharia de dados, ciência de dados e IA**
