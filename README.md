@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Michael Henrique Moreira</h1>
-<h1 align="left"><i>Um Engenheiro de Dados em formação</i></h1>
+<h5 align="left"><i>Um Engenheiro de Dados em formação</i></h5>
 
 - 🔭 Atualmente estou trabalhando como **Análista de Sistemas em uma multinacional**
 - 👯 Eu procuro aprender e colaborar com **Projetos de engenharia de dados, ciência de dados e IA**
